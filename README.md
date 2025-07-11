@@ -17,7 +17,7 @@ Eye-Catching Visuals: Though optimization is king, Simply Neoforged doesn't ditc
 <summary>Mods included (Counting only performance-focused mods)</summary>
   
 - [Sodium](https://modrinth.com/mod/sodium)
-- [Entity Culling]([https://modrinth.com/mod/entityculling](https://modrinth.com/mod/entityculling))
+- [Entity Culling](https://modrinth.com/mod/entityculling)
 - [ScalableLux](https://modrinth.com/mod/scalablelux)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [More Culling](https://modrinth.com/mod/moreculling)
@@ -27,3 +27,5 @@ Eye-Catching Visuals: Though optimization is king, Simply Neoforged doesn't ditc
 - [ModernFix](https://modrinth.com/mod/modernfix)
 - [Concurrent Chunk Management Engine (NeoForge) ](https://modrinth.com/mod/c2me-neoforge)
 </details>
+
+[![Available on Curseforge](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/curseforge_64h.png?raw=true)](https://www.curseforge.com/minecraft/modpacks/simply-neoforged) [![Available on Modrinth](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_64h.png?raw=true)](https://modrinth.com/modpack/simply-neoforged)
