@@ -1,4 +1,6 @@
-# Simply-NeoForged-MultiMC-instances
+[![Built on Simply Optimized](https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Fbuilt-with%2Fsimply-optimized_vector.svg&n=-1)](https://modrinth.com/modpack/sop)
+
+# Simply NeoForged MultiMC Instances
 
 Unveil Simply Neoforged, a modpack expertly crafted to gift a smooth, optimized Minecraft adventure employing NeoForge, a powerhouse mod loader. Merging peak performance with a meticulously chosen mod lineup, Simply Neoforged breathes fresh life into your blocky world escapades seamlessly.
 
