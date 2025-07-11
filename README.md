@@ -1,11 +1,5 @@
 # Simply-NeoForged-MultiMC-instances
 
-A well-researched optimization modpack with a focus on pure performance, Inspired by SO and for NeoForge
-
-This repo is where the MultiMC instances are for you download manually if you want
-
-# Simply NeoForged
-
 Unveil Simply Neoforged, a modpack expertly crafted to gift a smooth, optimized Minecraft adventure employing NeoForge, a powerhouse mod loader. Merging peak performance with a meticulously chosen mod lineup, Simply Neoforged breathes fresh life into your blocky world escapades seamlessly.
 
 # Key Highlights:
